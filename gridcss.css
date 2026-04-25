@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+}
+nav{
+    background-color: white;
+    font-size: 50px;
+    justify-content: end;
+    display: flex;
+    gap: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+img{
+    width: 400px;
+    height: auto;
+    margin-top: -240px;
+    
+}
+.tail{
+    color:white;
+}
+.div{
+    margin: 380px 40px;
+    padding: 4px 0px;
+    
+}
+.dve{
+    margin: 350px 40px;
+    padding: 4px 0px;
+}
+.vider{
+    margin: 350px 40px;
+    padding: 4px 0px;
+}
+.contact{
+    text-decoration: none;
+    margin: 350px 40px ; 
+    padding:4px 0px ;
+}
